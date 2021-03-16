@@ -1,0 +1,26 @@
+{
+  "name": "ProcessosESAJ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffersonmiranda0/roboConsultaProcessosESAJ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffersonmiranda0/roboConsultaProcessosESAJ/issues"
+  },
+  "homepage": "https://github.com/jeffersonmiranda0/roboConsultaProcessosESAJ#readme",
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "json2csv": "^5.0.6",
+    "puppeteer": "^8.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
